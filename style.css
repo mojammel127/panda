@@ -1,0 +1,9 @@
+.panda-card{
+    border: none;
+    height: 500px;
+}
+
+.panda-card-footer{
+    color: white;
+    border: none;
+}
